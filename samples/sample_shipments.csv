@@ -1,0 +1,2 @@
+order_id,aws,receiver_name,receiver_phone,receiver_street1,receiver_postal_code,tracking_status,tracking_sub_status,tracking_pick_date,tracking_expected_delivery,first_ofd_date,delivery_attempts,parcel_contents,delivery_time
+ORD123,Amazon,John Doe,+911234567890,Street 1,600001,NDR,Not Delivered,2025-06-28,2025-06-30,2025-06-29,1,Electronics,17:00

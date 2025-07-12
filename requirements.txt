@@ -1,0 +1,7 @@
+flask
+twilio
+python-dotenv
+requests
+pydub
+speechrecognition
+dateparser

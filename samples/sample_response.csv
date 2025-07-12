@@ -1,0 +1,2 @@
+id,call_sid,shipment_id,customer_number,audio_url,response_text,parsed_action,parsed_value,call_time,processed
+1,CALL123,ORD123,+911234567890,http://example.com/audio.mp3,"Redeliver tomorrow",Re-attempt,"2025-07-01 17:00",0
