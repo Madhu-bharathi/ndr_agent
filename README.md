@@ -1,8 +1,8 @@
-# 📦 NDR Agent — Automated Voice Response System for Failed Deliveries
+# NDR Agent — Automated Voice Response System for Failed Deliveries
 
 A smart, voice-based automation system designed to handle **Non-Delivery Reports (NDRs)** by engaging customers through phone calls, interpreting their spoken responses, and updating shipment status accordingly — all without human intervention.
 
-> 🛠️ Built during internship at **eShipz** to reduce manual efforts in last-mile delivery exception handling.
+> Built during internship at **eShipz** to reduce manual efforts in last-mile delivery exception handling.
 
 ---
 
